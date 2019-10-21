@@ -1,2 +1,4 @@
-# CotizadorCriptomonedas
-Es un programa creado a modo de practica, que permite ver el valor de cada criptomoneda actualizada diariamente, en el cual se podra observar su valor en diferentes monedas y cuanto a variado en el ultimo tiempo.
+# QuoteCrryptocurrency
+
+It is a proyect develop of the side of client, that allows see the value of differents cryprocurrency and other features. 
+This proyect using the api 'coinmarketcap'
